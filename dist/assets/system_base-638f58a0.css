@@ -1,0 +1,1 @@
+.gvb_settings_bg{background-color:var(--card_bg);min-height:calc(100vh - 130px);border-radius:5px;display:flex;flex-direction:column;align-items:center}.gvb_settings_bg .gvb_sub_menu{width:1000px;margin-top:20px}.gvb_settings_bg .gvb_sub_menu a{color:var(--text);margin-right:20px}.gvb_settings_bg .gvb_sub_menu a.active{color:var(--active)}

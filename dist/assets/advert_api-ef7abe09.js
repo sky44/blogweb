@@ -1,0 +1,1 @@
+import{S as e}from"./index-a4ff3a35.js";function i(t){return e.post("/api/adverts",t)}function p(t,r){return e.put("/api/adverts/"+t,r)}function n(t){return e.get("/api/adverts",{params:t})}export{i as c,n as g,p as u};
