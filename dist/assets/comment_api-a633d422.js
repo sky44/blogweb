@@ -1,0 +1,1 @@
+import{S as t}from"./index-60e5bf44.js";function n(e){return t.delete("/api/comments/"+e)}function o(e){return t.post("/api/comments/",e)}function i(e){return t.get("/api/comments/"+e)}export{n as a,o as c,i as g};
