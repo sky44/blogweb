@@ -1,1 +1,0 @@
-import{l as e}from"./user_api-595c9794.js";import{b as t,J as a,m as o}from"./index-60e5bf44.js";async function l(){const r=t();let s=await e();if(r.clear(),await a.push({name:"login"}),s.code){o.error(s.msg);return}o.success(s.msg)}export{l};
